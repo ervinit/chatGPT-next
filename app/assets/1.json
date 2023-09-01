@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "image": "0.jpg",
+        "address": "Deutschland, Hamburg, Bergedorf, Altengamme",
+        "price": "340,000",
+        "rooms": "4,5"
+    },
+    {
+        "id": 1,
+        "image": "1.jpg",
+        "address": "Deutschland, Hamburg, Wedel",
+        "price": "395,000",
+        "rooms": "4"
+    },
+    {
+        "id": 2,
+        "image": "2.jpg",
+        "address": "Deutschland, Hamburg, Barmbek, Billstedt",
+        "price": "425,000",
+        "rooms": "2"
+    },
+    {
+        "id": 3,
+        "image": "3.jpg",
+        "address": "Deutschland, Hamburg, Bergedorf, Lohbrügge",
+        "price": "449,000",
+        "rooms": "3"
+    },
+    {
+        "id": 4,
+        "image": "4.jpg",
+        "address": "Deutschland, Hamburg, Bergedorf, Geesthacht",
+        "price": "490,000",
+        "rooms": "6"
+    },
+    {
+        "id": 5,
+        "image": "5.jpg",
+        "address": "Deutschland, Hamburg, Eimsbüttel, Stellingen",
+        "price": "530,000",
+        "rooms": "3"
+    },
+    {
+        "id": 6,
+        "image": "6.jpg",
+        "address": "Deutschland, Hamburg, Niendorf/Schnelsen, Schnelsen",
+        "price": "545,000",
+        "rooms": "4"
+    },
+    {
+        "id": 7,
+        "image": "7.jpg",
+        "address": "Germany, Hamburg, Alstertal / Walddörfer / Wandsbek / Rahlstedt, Volksdorf",
+        "price": "575,000",
+        "rooms": "3"
+    },
+    {
+        "id": 8,
+        "image": "8.jpg",
+        "address": "Deutschland, Hamburg, Rissen",
+        "price": "580,000",
+        "rooms": "3"
+    },
+    {
+        "id": 9,
+        "image": "9.jpg",
+        "address": "Deutschland, Hamburg, Bergedorf, Nettelnburg",
+        "price": "580,000",
+        "rooms": "4,5"
+    },
+    {
+        "id": 10,
+        "image": "10.jpg",
+        "address": "Deutschland, Hamburg, Holm",
+        "price": "589,000",
+        "rooms": "4"
+    },
+    {
+        "id": 11,
+        "image": "11.jpg",
+        "address": "Deutschland, Hamburg, Niendorf/Schnelsen",
+        "price": "590,000",
+        "rooms": "3"
+    },
+    {
+        "id": 12,
+        "image": "12.jpg",
+        "address": "Germany, Hamburg, Alstertal / Walddörfer / Wandsbek / Rahlstedt, Rahlstedt",
+        "price": "590,000",
+        "rooms": "6.5"
+    },
+    {
+        "id": 13,
+        "image": "13.jpg",
+        "address": "Deutschland, Hamburg, Bergedorf, Allermöhe",
+        "price": "595,000",
+        "rooms": "5"
+    },
+    {
+        "id": 14,
+        "image": "14.jpg",
+        "address": "Deutschland, Hamburg, Harburg",
+        "price": "599,000",
+        "rooms": "8,5"
+    }
+]
